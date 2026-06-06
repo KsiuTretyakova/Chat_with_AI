@@ -1,0 +1,2 @@
+SECRET_KEY_DJANGO='your_django_secret_key'
+OPENAI_API_KEY='your_open_api_key'
